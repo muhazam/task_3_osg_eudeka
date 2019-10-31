@@ -1,0 +1,4 @@
+#Thu Oct 31 09:14:41 WIB 2019
+base.0=/home/zams/Dokumen/task_3_osg_eudeka/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
